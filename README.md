@@ -34,7 +34,7 @@
 
 ### 📫 How to reach me
 - 📧 Email: `yy3462@columbia.edu`
-- 💼 LinkedIn: *(happy to share!)*
+- 💼 LinkedIn: https://www.linkedin.com/in/yueyaoyy/
 
 ---
 
