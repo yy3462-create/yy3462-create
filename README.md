@@ -1,7 +1,7 @@
 ## Hi there 👋 I’m **Yue Yao**
 
 🔭 **Interdisciplinary builder at the intersection of AI, data, and policy**  
-🎓 Graduate student at **Columbia University (SIPA)**, specializing in **Data Science for Policy & Responsible AI**
+🎓 Graduate student at **Columbia University **, specializing in **Data Science for Policy & Responsible AI**
 
 ---
 
